@@ -1,2 +1,2 @@
-# HTML-My-Resume
+My-Resume
 My second HTML project - My Resume 
